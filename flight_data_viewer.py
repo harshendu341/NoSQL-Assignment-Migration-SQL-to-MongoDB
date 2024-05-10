@@ -39,7 +39,7 @@ def display_flights():
 
     # Create GUI window
     root = tk.Tk()
-    root.title("Flight Data Viewer")
+    root.title("Flight Data Viewer, HARSHENDU AND JOEL")
 
     # Create a text widget for SQLite flight data (comma-separated values)
     sqlite_text_widget = tk.Text(root, height=15, width=80)
